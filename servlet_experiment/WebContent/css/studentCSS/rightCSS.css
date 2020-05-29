@@ -1,0 +1,73 @@
+#content{
+			margin-top: 20px;
+		}
+		.marquee ul marquee{
+			border: 1px solid #DCDCDC;
+			border-radius: 3px ;
+			background-color: #fbfbfb;
+		}
+		.marquee ul marquee span h4{
+			font-size: 14px;
+			margin: 7px 0px 7px 0px;
+		}
+		.book{
+			background: url(http://localhost:8080/servlet_experiment/img/studentIMG/bookBG.png) repeat-x;
+			display: block;
+			float: left;
+			width: 220px;
+			height: 65px;
+			text-decoration: none;
+			border: 1px solid #EBEBEB;
+			border-radius: 5px;
+			/* margin-left: 100px; */
+	text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+}
+.bookimg{
+	margin-left: 43%;
+	margin-top: 8px;
+}
+.span3 div strong:hover{
+	color: #999999;
+}
+
+.box{
+	margin-top: 100px;
+	background-color: #EEEEEE;
+	margin-left: 2.7%;
+	border: 1px solid #DCDCDC;
+	border-radius: 4px;
+}
+
+.books a{
+	text-decoration: none;
+}
+
+.unFinishExper,.unFinishTrain,.FinishExper, .FinishTrain{
+	text-align: center;
+	display: block;
+	color: white;
+	width: 10%;
+	height: 33%;
+	border-radius: 10px;
+	/* 设置相对定位 */
+	position: relative;
+	left: 95%;
+	bottom: 95%;
+}
+.unFinishExper{
+	border: 1px solid #2FABE9;
+	background-color: #67C2EF;
+}
+.unFinishTrain{
+	border: 1px solid #F4A506;
+	background-color: #FABB3D;
+}
+
+.FinishExper{
+	border: 1px solid #5AAD34;
+	background-color: #78CD51;
+}
+.FinishTrain{
+	border: 1px solid #FA5833;
+	background-color: #FA603D;
+}

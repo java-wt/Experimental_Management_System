@@ -1,0 +1,40 @@
+.w{
+	width: 40%;
+	margin: 0 auto;
+	margin-top: 5%;
+	height: 100%;
+}
+
+.input .k input{
+	width: 95%;
+}
+
+.input .j{
+	margin-left: 20%;
+}
+
+.input .i{
+	margin-bottom: 10px;
+}
+
+.input .i input{
+	width: 130%;
+}
+.select{
+	width: 115%;
+}
+
+.title{
+	background-color: #ff5b20;
+	height: 50px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+.content{
+	color: white;
+	font-family: "Î¢ÈíÑÅºÚ";
+	font-size: 25px;
+	padding-top: 0.5%;
+	display: block;
+	text-align: center;
+}

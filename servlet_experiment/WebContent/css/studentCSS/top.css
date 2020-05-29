@@ -1,0 +1,63 @@
+
+.navbar .navbar-inner{
+	height: 50px;
+	background-color: #3f9fd9; 
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+
+.navbar .brand{
+	float: left;
+	color: #EEEEEE;
+	/* 此元素将被显示为块级元素，此元素前后会带有换行符。 */
+	display: block;
+	padding: 12px 20px 10px;
+	margin-left: 8px;
+	font-size: 20px;
+	text-decoration: none;
+	/* 设置行高 */
+	line-height: 1;
+}
+
+.brand{
+	
+	font-family: "楷体";
+	/* letter-spacing属性可增加或减少字符间的空白。 */
+	letter-spacing: 2px;
+	
+	text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+	
+}
+
+.navbar .topbtn{
+	margin-top: 10px;
+	margin-right: 50px;
+}
+
+.navbar .btn-group .btn{
+	margin: 0;
+}
+.navbar .btn{
+	height: 30px;
+	color: #333333;
+	background-color: white;
+}
+
+.navbar .btn-group{
+	margin-left: 20px;
+}
+
+.navbar .btn:hover{
+	color: #333333;
+	background-color: #e6e6e6;
+}
+
+.icon-user{
+	width: 30px;
+	margin-bottom: 3px;
+}
+.icon-bangzhu , .icon-zhuti{
+	width: 17px;
+	margin-bottom: 5px;
+}

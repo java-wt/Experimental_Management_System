@@ -1,0 +1,24 @@
+.w{
+	width: 500px;
+	margin: 0 auto;
+/* 	height: 300px; */
+	/* background-color: #bfa; */
+}
+
+.title{
+	color: white;
+	font-family: ;
+	margin-top: 30%;
+}
+
+.loginInput{
+	height: 300px;
+	border-radius: 20px;
+	background-color: lightblue;
+	padding-left: 80px;
+	padding-top: 55px;
+}
+
+
+
+
